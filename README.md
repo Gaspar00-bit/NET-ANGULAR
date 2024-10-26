@@ -14,7 +14,7 @@ Design da interface: Criar uma interface amigável para o usuário, exibindo pro
 Integrar os dois microserviços com a API principal e garantir que a comunicação entre Angular e o back-end esteja fluida.
 Fazer o deploy da solução completa.
 Estrutura de Diretórios Sugerida:
-bash
+bash 
 Copiar código
 /MarketplaceProject
    /Backend
